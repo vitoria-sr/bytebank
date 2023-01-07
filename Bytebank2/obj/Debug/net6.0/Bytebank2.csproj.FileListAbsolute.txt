@@ -1,0 +1,15 @@
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\bin\Debug\net6.0\Bytebank2.exe
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\bin\Debug\net6.0\Bytebank2.deps.json
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\bin\Debug\net6.0\Bytebank2.runtimeconfig.json
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\bin\Debug\net6.0\Bytebank2.dll
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\bin\Debug\net6.0\Bytebank2.pdb
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\Bytebank2.csproj.AssemblyReference.cache
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\Bytebank2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\Bytebank2.AssemblyInfoInputs.cache
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\Bytebank2.AssemblyInfo.cs
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\Bytebank2.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\Bytebank2.dll
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\refint\Bytebank2.dll
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\Bytebank2.pdb
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\Bytebank2.genruntimeconfig.cache
+C:\Users\Vitoria\Downloads\Programação\Sharp Coders\Beecrowd\Bytebank2\Bytebank2\obj\Debug\net6.0\ref\Bytebank2.dll
